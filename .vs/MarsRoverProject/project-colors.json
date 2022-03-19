@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "eb15f7ed-205b-4c44-b9b8-1e4a6de7a16d": {
+      "ProjectGuid": "eb15f7ed-205b-4c44-b9b8-1e4a6de7a16d",
+      "DisplayName": "MarsRoverProject.Console",
+      "ColorIndex": 0
+    },
+    "6b36db3b-2c98-40f6-bc21-4a96edb21551": {
+      "ProjectGuid": "6b36db3b-2c98-40f6-bc21-4a96edb21551",
+      "DisplayName": "MarsRoverProject.Domain",
+      "ColorIndex": 1
+    },
+    "ef350cc7-e647-45a1-b85b-110d2ce32475": {
+      "ProjectGuid": "ef350cc7-e647-45a1-b85b-110d2ce32475",
+      "DisplayName": "MarsRoverProject.Domain.UnitTest",
+      "ColorIndex": 2
+    },
+    "810a03e9-940b-4cd2-ac1c-df1bf6692098": {
+      "ProjectGuid": "810a03e9-940b-4cd2-ac1c-df1bf6692098",
+      "DisplayName": "MarsRoverProject.Core",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}
